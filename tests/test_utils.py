@@ -1,6 +1,6 @@
 import unittest
 import os
-from my_library.utils import collect_included_files
+from gradio-utilities.utils import collect_included_files
 
 class TestCollectIncludedFiles(unittest.TestCase):
 
